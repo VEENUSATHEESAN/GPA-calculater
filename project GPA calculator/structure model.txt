@@ -1,0 +1,23 @@
+input 
+	name
+	semester
+	how many subjects
+	subject name
+	credit
+	result
+
+process
+	assign a result points ex:- A+ = 4
+	calculate the subject gpa ex:- 3 credit * 4 = 12
+	calculate total credit
+	calculate gpa Ex:-total subject gpa/total credit
+	find the class
+
+output
+	name
+	semester
+	print the semester result
+	print the gpa
+	print the class
+	
+	
